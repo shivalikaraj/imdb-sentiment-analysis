@@ -1,3 +1,6 @@
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivalikaraj/imdb-sentiment-analysis/blob/main/IMDb_Sentiment_Analysis.ipynb)
+
 # IMDb Sentiment Analysis using Hugging Face
 
 ## Project Overview
