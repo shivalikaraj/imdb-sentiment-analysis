@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.914,
+  "precision": 0.9294871794871795,
+  "recall": 0.8913934426229508,
+  "f1": 0.9100418410041841,
+  "total_time_in_seconds": 12.902382000000216,
+  "samples_per_second": 77.5050684439496,
+  "latency_in_seconds": 0.012902382000000216
+}
